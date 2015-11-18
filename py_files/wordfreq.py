@@ -1,5 +1,4 @@
 #Samuel Low-Chappell
-#260565530
 
 #The following algorithm works for stripping and counting
 #the words. Now I just need to figure out the file I/O bit
